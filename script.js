@@ -4,7 +4,7 @@ var ul = document.querySelector("ul");
 var li = document.getElementsByTagName("li");
 
 // Constant number value for maximum number of lists you can add.
-const _MaxListCount = 16;
+const _MaxListCount = 12;
 
 // number variable to count the total number of lists you have.
 var totalListCount = 0;
